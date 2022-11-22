@@ -76,7 +76,7 @@ body,html {
     background:linear-gradient(0deg,rgb(71, 67, 67),rgba(247, 240, 240, 0)),url("https://i.postimg.cc/BQdThjQs/finbg.jpg") center center fixed;
     background-size:100% auto;
     background-repeat:no-repeat;
-    color:white;
+    color:rgb(0, 0, 0);
     display:flex;
     justify-content:center;
     flex-direction:column;
